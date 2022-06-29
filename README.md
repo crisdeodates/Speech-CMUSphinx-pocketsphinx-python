@@ -1,6 +1,6 @@
 # Pocketsphinx Python
 
-**This module is no longer relevant, and is being archived. Python bindings are included in the [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) module.**
+**This module is no longer relevant, and is being archived. Python bindings are included in the [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) module. Alternatively, you may consider using [bambocher/pocketsphinx-python](https://github.com/bambocher/pocketsphinx-python)**
 
 Pocketsphinx is a part of the [CMU Sphinx](http://cmusphinx.sourceforge.net) Open Source Toolkit For Speech Recognition.
 
