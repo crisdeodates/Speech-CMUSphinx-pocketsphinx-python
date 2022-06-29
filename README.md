@@ -1,5 +1,7 @@
 # Pocketsphinx Python
 
+** This module is no longer relevant, and is being archived. Python bindings are included in the [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) module. **
+
 Pocketsphinx is a part of the [CMU Sphinx](http://cmusphinx.sourceforge.net) Open Source Toolkit For Speech Recognition.
 
 This package provides a python interface to CMU [Sphinxbase](https://github.com/cmusphinx/sphinxbase) and [Pocketsphinx](https://github.com/cmusphinx/pocketsphinx) libraries created with [SWIG](http://www.swig.org) and [Setuptools](https://setuptools.readthedocs.io).
